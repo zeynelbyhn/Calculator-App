@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Windows Machine": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "hotReloadEnabled": true
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "hotReloadEnabled": true
+    }
+  }
+}
